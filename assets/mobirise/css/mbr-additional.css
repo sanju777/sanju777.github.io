@@ -1694,78 +1694,59 @@ section.lazy-placeholder:after {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/petland-texas-aquarium.jpg");
 }
-.cid-s37wZfma9T {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-s36tbZgyqQ H3 {
+  text-align: center;
+}
+.cid-s3iNRNZfxe {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-s37wZfma9T .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-s3iNRNZfxe h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-s37wZfma9T .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-s3iNRNZfxe p {
+  color: #767676;
+  text-align: left;
 }
-.cid-s37wZfma9T .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-s3iNRNZfxe .card-box {
+  padding-top: 2rem;
 }
-.cid-s37wZfma9T .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-s37wZfma9T .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-s3iNRNZfxe .card-wrapper {
   height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s37wZfma9T .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
+.cid-s3j1iWK9VL {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-s37wZfma9T .mbr-gallery-item > div:hover:before {
-  opacity: 0 !important;
+.cid-s3j1iWK9VL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-s37wZfma9T .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
+.cid-s3j1iWK9VL p {
+  color: #767676;
+  text-align: left;
 }
-.cid-s37wZfma9T .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
+.cid-s3j1iWK9VL .card-box {
+  padding-top: 2rem;
+}
+.cid-s3j1iWK9VL .card-wrapper {
   height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-s3hUO3XZEM {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-s3hUO3XZEM .title {
   margin-bottom: 2rem;
 }
 .cid-s3hUO3XZEM .mbr-section-subtitle {
-  color: #149dcc;
+  color: #3b3bc4;
 }
 .cid-s3hUO3XZEM a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1778,7 +1759,7 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-s3hUO3XZEM H2 {
-  color: #232323;
+  color: #ff3366;
 }
 .cid-s3811iGzrr .navbar {
   padding: .5rem 0;
