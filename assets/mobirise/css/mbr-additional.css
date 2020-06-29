@@ -1272,73 +1272,6 @@ section.lazy-placeholder:after {
 .cid-s36pjjl7Db .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-s36tbZgyqQ {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/petland-texas-aquarium.jpg");
-}
-.cid-s37wZfma9T {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s37wZfma9T .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-s37wZfma9T .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-s37wZfma9T .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-s37wZfma9T .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-s37wZfma9T .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-s37wZfma9T .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-s37wZfma9T .mbr-gallery-item > div:hover:before {
-  opacity: 0 !important;
-}
-.cid-s37wZfma9T .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-s37wZfma9T .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
 .cid-s3811iGzrr .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1746,6 +1679,15 @@ section.lazy-placeholder:after {
 .cid-s3811iGzrr .nav-link:hover,
 .cid-s3811iGzrr .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-s382Zm0tCl {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s382Zm0tCl .mbr-text,
+.cid-s382Zm0tCl blockquote {
+  color: #767676;
 }
 .cid-s36CqLUyDq {
   padding-top: 135px;
@@ -2363,6 +2305,73 @@ section.lazy-placeholder:after {
 .cid-s3811iGzrr .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s36tbZgyqQ {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/petland-texas-aquarium.jpg");
+}
+.cid-s37wZfma9T {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s37wZfma9T .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s37wZfma9T .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s37wZfma9T .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s37wZfma9T .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s37wZfma9T .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-s37wZfma9T .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s37wZfma9T .mbr-gallery-item > div:hover:before {
+  opacity: 0 !important;
+}
+.cid-s37wZfma9T .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s37wZfma9T .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
 .cid-s3811iGzrr .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2770,13 +2779,4 @@ section.lazy-placeholder:after {
 .cid-s3811iGzrr .nav-link:hover,
 .cid-s3811iGzrr .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-s382Zm0tCl {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-s382Zm0tCl .mbr-text,
-.cid-s382Zm0tCl blockquote {
-  color: #767676;
 }
