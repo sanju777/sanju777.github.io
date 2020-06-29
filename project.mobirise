@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://www.sites.google.com/view/primesolutions222",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2125,25 +2125,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_afterNavbarItem": false,
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "sound": "https://soundcloud.com/mobirise/blue-skies",
-            "autoplay": false,
-            "fullWidth": false,
-            "bgColor": "#fff"
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-13"
         },
         {
           "alias": false,
