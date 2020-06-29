@@ -2456,6 +2456,30 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s3hUO3XZEM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s3hUO3XZEM .title {
+  margin-bottom: 2rem;
+}
+.cid-s3hUO3XZEM .mbr-section-subtitle {
+  color: #149dcc;
+}
+.cid-s3hUO3XZEM a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s3hUO3XZEM a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s3hUO3XZEM textarea.form-control {
+  min-height: 188px;
+}
+.cid-s3hUO3XZEM H2 {
+  color: #232323;
+}
 .cid-s3811iGzrr .navbar {
   padding: .5rem 0;
   background: #333333;
